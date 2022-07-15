@@ -16,6 +16,6 @@ Using Tensorflow to construct and visualise multiple Machine learning models.
 Notebooks:
 | Number | Notebook | Description |
 | ------------- | ------------- | ------------- |
-| 00 | [TensorFlow Fundimentals](https://pages.github.com/) | Tensor creation and Matrix manipulation |
-| 01  | [TensorFlow Regression Model](https://pages.github.com/) | Neural network creation for Regression problems and visualisation |
+| 00 | [TensorFlow Fundimentals](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/00_tensorflow_fundamentals.ipynb) | Tensor creation and Matrix manipulation |
+| 01  | [TensorFlow Regression Model](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/01_neural_network_regression_with_tensorflow.ipynb) | Neural network creation for Regression problems and visualisation |
 | 02  | [TensorFlow Classification Model](https://pages.github.com/) | Neural network creation for Classification problems and visualisation |
