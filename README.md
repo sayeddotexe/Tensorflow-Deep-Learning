@@ -19,3 +19,4 @@ Notebooks:
 | 00 | [TensorFlow Fundimentals](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/00_tensorflow_fundamentals.ipynb) | Tensor creation and Matrix manipulation |
 | 01  | [TensorFlow Regression Model](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/01_neural_network_regression_with_tensorflow.ipynb) | Neural network creation for Regression problems and visualisation |
 | 02  | [TensorFlow Classification Model](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/02_neural_network_classification_with_tensorflow.ipynb) | Neural network creation for Classification problems and visualisation |
+| 02b  | [TensorFlow Confusion Matrix Visualisor](https://github.com/sayeddotexe/Tensorflow-Deep-Learning/blob/main/02b_Confusion_matrix_function.ipynb) | Visualising predictions against truth labels using a Confusion Matrix. |
